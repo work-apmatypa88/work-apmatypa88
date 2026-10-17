@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**work-apmatypa88/work-apmatypa88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm work-apmatypa88
 
-Here are some ideas to get you started:
+Building small things on the web and experimenting with AI-assisted development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## Projects
+
+| Project | Description |
+|---------|-------------|
+| [hello-world](https://github.com/work-apmatypa88/hello-world) | Starter repository |
+
+## GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=work-apmatypa88&show_icons=true&hide_border=true" alt="work-apmatypa88's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=work-apmatypa88&layout=compact&hide_border=true" alt="work-apmatypa88's top languages" />
+</p>
