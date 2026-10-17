@@ -12,7 +12,8 @@ Building small things on the web and experimenting with AI-assisted development.
 
 | Project | Description |
 |---------|-------------|
-| [hello-world](https://github.com/work-apmatypa88/hello-world) | Starter repository |
+| [expense-tracker](https://github.com/work-apmatypa88/expense-tracker) | Go CLI expense tracker with CSV storage and per-category summary |
+| [pomodoro-timer](https://github.com/work-apmatypa88/pomodoro-timer) | TypeScript browser Pomodoro timer |
 
 ## GitHub stats
 
